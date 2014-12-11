@@ -1,0 +1,15 @@
+{
+  "name": "hapiday2014",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "glue": "^2.0.0-rc4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Stevens <davestevens84@gmail.com>",
+  "license": "ISC"
+}
