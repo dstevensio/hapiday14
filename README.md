@@ -9,6 +9,6 @@ Run the example by cloning this repo, then `npm install` followed by `node index
 
 The cURL commands in the slides should then work for you. Or if you prefer, look at it in the browser - http://localhost:9000
 
-Twitter: @davestevens84
+Twitter: @dstevensio
 
-Email: davestevens84@gmail.com or dstevens@zappos.com
+Email: ds@dstevens.io
